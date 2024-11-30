@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 Currently, I am studying Computer Science. I am looking for an internship as a Full Stack Developer, Back-end or Front-end Developer
-<!--
-**tnppp1122/tnppp1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Skills
+**Programming languages**
+- Python
+    - Flask
+    - Django
+- Golang
+**Web Developer**
+- HTML/CSS
+- JavaScript
+**DB**
+- MongoDB
+- PostgreSQL
+- pgAdmin 4
+**Tool**
+- Linux
+- Docker
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Project
+**Line chatbot**
+- To combine the features of several applications into a single-line interface.
+**NursEdu Interactive Website**
+- Web application for creating and taking quizzes that simulate various scenarios, with choices dynamically linking to different questions. There are 3 types of users: teacher, student and admin by logging in with oauth.
+**EventSpark Website**
+- Web application enabling users to create events, opt-in, and book tickets for attendance.
+
+# Contact
+[Email](tanaphon_p@cmu.ac.th)
+
+
