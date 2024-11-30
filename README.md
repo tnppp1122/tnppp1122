@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Currently, I am studying Computer Science. I am looking for an internship as a Full Stack Developer, Back-end or Front-end Developer
 <!--
 **tnppp1122/tnppp1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
