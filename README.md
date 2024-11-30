@@ -2,22 +2,22 @@
 Currently, I am studying Computer Science. I am looking for an internship as a Full Stack Developer, Back-end or Front-end Developer
 
 # Skills
-**Programming languages**
-* Python
-    * Flask
-    * Django
-- Golang 
-**Web Developer**
-- HTML/CSS
-- JavaScript
-**DB**
-- MongoDB
-- PostgreSQL
-- pgAdmin 4
-**Tool**
-- Linux
-- Docker
-- Figma
+- **Programming languages**
+   - Python
+       - Flask
+       - Django
+   - Golang 
+- **Web Developer**
+   - HTML/CSS
+   - JavaScript
+- **DB**
+   - MongoDB
+   - PostgreSQL
+   - pgAdmin 4
+- **Tool**
+   - Linux
+   - Docker
+   - Figma
 
 # Project
 **Line chatbot**
@@ -29,7 +29,7 @@ Currently, I am studying Computer Science. I am looking for an internship as a F
 
 # Contact
 - Email : tanaphon_p@cmu.ac.th
-- [Facebook](https://web.facebook.com/tanaphon.phuengpa)
+
 
 
 
