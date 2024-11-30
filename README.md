@@ -2,6 +2,12 @@
 Currently, I am studying Computer Science. I am looking for an internship as a Full Stack Developer, Back-end or Front-end Developer
 
 # Skills
+![html](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
+![css](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+![python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
+![flask](https://img.icons8.com/?size=70&id=MHcMYTljfKOr&format=png&color=000000)
+![django](https://img.icons8.com/?size=70&id=qV-JzWYl9dzP&format=png&color=000000)
 - **Programming languages**
    - Python
        - Flask
@@ -10,6 +16,7 @@ Currently, I am studying Computer Science. I am looking for an internship as a F
 - **Web Developer**
    - HTML/CSS
    - JavaScript
+
 - **DB**
    - MongoDB
    - PostgreSQL
