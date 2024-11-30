@@ -7,6 +7,7 @@ Currently, I am studying Computer Science. I am looking for an internship as a F
     - Flask
     - Django
 - Golang
+<br>
 **Web Developer**
 - HTML/CSS
 - JavaScript
