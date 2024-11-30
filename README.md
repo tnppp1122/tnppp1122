@@ -1,5 +1,5 @@
 # Hi there 👋
-** My name is Tanaphon Phungpa**
+**My name is Tanaphon Phungpa**
 Currently, I am studying Computer Science. I am looking for an internship as a Full Stack Developer, Back-end or Front-end Developer
 
 # Skills
