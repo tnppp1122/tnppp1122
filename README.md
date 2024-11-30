@@ -28,6 +28,8 @@ Currently, I am studying Computer Science. I am looking for an internship as a F
 - Web application enabling users to create events, opt-in, and book tickets for attendance.
 
 # Contact
-[Email](tanaphon_p@cmu.ac.th)
+- Email : tanaphon_p@cmu.ac.th
+- [Facebook](https://web.facebook.com/tanaphon.phuengpa)
+
 
 
