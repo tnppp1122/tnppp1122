@@ -3,10 +3,10 @@ Currently, I am studying Computer Science. I am looking for an internship as a F
 
 # Skills
 **Programming languages**
-- Python
-    - Flask
-    - Django
-- Golang <hr>
+* Python
+    * Flask
+    * Django
+- Golang 
 **Web Developer**
 - HTML/CSS
 - JavaScript
